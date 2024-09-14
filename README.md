@@ -9,8 +9,7 @@
 <a href="https://twitter.com/gn_aravinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gn_aravinda" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aravinda-gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aravinda-gn" height="30" width="40" /></a>
 <a href="https://medium.com/@aravinda-gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aravinda-gn" height="30" width="40" /></a>
-</p>
-<a href="https://medium.com/@aravinda-gn" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43121b3c-ef11-4c89-b376-e1695c86b8c1" alt="@aravinda-gn" height="30" width="40" /></a>
+<a href="https://huggingface.co/aravindagn123" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43121b3c-ef11-4c89-b376-e1695c86b8c1" alt="@aravinda-gn" height="30" width="40" /></a>
 </p>
 
 

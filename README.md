@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
-<h3 align="center">A passionate AI developer</h3>
 
 - 📝 I regularly write articles on [https://aravinda-gn.medium.com/](https://aravinda-gn.medium.com/)
 - 📝 My project portfolio  [https://github.com/Aravinda89/Project-Portfolio/)

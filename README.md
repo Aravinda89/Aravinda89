@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
 
 - 📝 My project portfolio [https://github.com/Aravinda89/Project-Portfolio/]
-- 📝 I regularly write articles on [https://aravinda-gn.medium.com/](https://aravinda-gn.medium.com/)
+- 📝 I regularly write articles on [medium](https://aravinda-gn.medium.com/)
 - 📝 Deeplearning.ai portfolio [https://learn.deeplearning.ai/u/01JFSCS7E9CRR07NSYPSMTH53W/]
 
 <h3 align="left">Connect with me:</h3>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
 
-- 📝 My project [portfolio][https://github.com/Aravinda89/Project-Portfolio/]
+- 📝 My project [portfolio](https://github.com/Aravinda89/Project-Portfolio/)
 - 📝 I regularly write articles on [medium](https://aravinda-gn.medium.com/)  [hashnode](https://hashnode.com/@aravindagn) [dev.to](https://dev.to/aravindagn)
-- 📝 Deeplearning.ai [portfolio][https://learn.deeplearning.ai/u/01JFSCS7E9CRR07NSYPSMTH53W/]
+- 📝 Deeplearning.ai [portfolio](https://learn.deeplearning.ai/u/01JFSCS7E9CRR07NSYPSMTH53W/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

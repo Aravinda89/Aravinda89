@@ -3,6 +3,7 @@
 - 📝 My project [portfolio](https://github.com/Aravinda89/Project-Portfolio/)
 - 📝 I regularly write articles on [medium](https://aravinda-gn.medium.com/)  [hashnode](https://hashnode.com/@aravindagn) [dev.to](https://dev.to/aravindagn)
 - 📝 Deeplearning.ai [portfolio](https://learn.deeplearning.ai/u/01JFSCS7E9CRR07NSYPSMTH53W/)
+- 📝 coursera.org [coursera](https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
